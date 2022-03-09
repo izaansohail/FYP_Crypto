@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "Cryptocurrency Prediction",
+    "paragraph": "A Website that uses Deep Learning Model Bidirectional LSTM with Wrapper and MDI Feature Selection appraoch to predict prices of Bitcoin and Ethereum."
+  },
+  "About": {
+    "paragraph": "A cryptocurrency is a type of electronic currency that is created and kept. Cryptocurrency prices are extremely volatile, making them both high-benefit and high-risk investments.. The goal of this project is to address this problem and forecast the price of the top two cryptocurrencies, Bitcoin and Ethereum as accurately as possible by taking into account several factors that influence the price of the cryptocurrencies mentioned above, as well as historical and real-time data.",
+    "Why": [
+      "Real Time Prediction",
+      "Highlighting important indicators",
+      "Graphical Representation of feature",
+      "Pre-processing of raw data"
+    ],
+    "Why2": [
+      "Improved model accuracy",
+      "self-improving model",
+      "Interactive user interface",
+      "Automated feature selection "
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Bitcoin Wrapper Appraoch Error Percentages",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/Bitcoin_wrapper_approach.png"
+    },
+    {
+      "title": "Ethereum Wrapper Appraoch Error Percentages",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/Ethereum_wrapper_approach.png"
+    },
+    {
+      "title": "Bitcoin Self Appraoch Error Percentages",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/BTC_self_MDI.png"
+    },
+    {
+      "title": "Ethereum Self Appraoch Error Percentages",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/Eth_self_MDI.png"
+    },
+    {
+      "title": "Bitcoin skLearn Appraoch Error Percentages",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/BTC_sklearn_MDI.png"
+    },
+    {
+      "title": "Ethereum skLearn Appraoch Error Percentages",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/Eth_sklearn_MDI.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Sir Sufyan.png",
+      "name": "Dr. Sufyan Hamid",
+      "job": "Supervisor"
+    },
+    {
+      "img": "img/team/Sir Rafi.png",
+      "name": "Dr. Muhammad Rafi",
+      "job": "Co-Supervisor"
+    },
+    {
+      "img": "img/team/Izaan.png",
+      "name": "Izaan Sohail",
+      "job": "Member 1"
+    },
+    {
+      "img": "img/team/Maria.png",
+      "name": "Maria Aliasghar",
+      "job": "Member2"
+    },
+    {
+      "img": "img/team/Arisha.png",
+      "name": "Arisha Aziz",
+      "job": "Member 3"
+    }
+  ],
+  "Contact": {
+    "address": "Fast Nuces, Shah Latif Town, Karachi, Pakistan ",
+    "phone": "+92 332 2400 629",
+    "email": "CryptoPrediction@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Interactive",
+      "text": "Recent Data will be fed to model and model will be monitored to produce best results."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Alerts",
+      "text": "For any Huge spike or expected change an email wil be generated."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "Graphical Representation",
+      "text": "Indicators and Prediction value will be shown in graphical format."
+    },
+    {
+      "icon": "fa fa-user",
+      "title": "User Registeration",
+      "text": "Users can register and login to website for perks such as high change emails and monthly report."
+    }
+  ]
+}
